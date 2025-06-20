@@ -9,7 +9,6 @@ Este projeto é uma landing page moderna desenvolvida com [Next.js](https://next
 - Componentes reutilizáveis com React
 - Estilização com Tailwind CSS
 - Fontes otimizadas com `next/font` (Geist, da Vercel)
-- Pronto para deploy no Vercel
 
 ---
 
