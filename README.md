@@ -39,7 +39,6 @@ src/
 - **React**
 - **Tailwind CSS**
 - **Node.js**
-- **Vercel** (para deploy)
 
 ---
 
