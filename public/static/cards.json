@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Free Plan",
+        "preco": "Free",
+        "ferramentas": [
+            "Unlimited Bandwidth",
+            "Encrypted Connection",
+            "No Traffic Logs",
+            "Works on All Devices"
+        ],
+        "image": "/freeplan.png"
+    },
+    {
+        "name": "Standart Plan",
+        "preco": "Free",
+        "ferramentas": [
+            "Unlimited Bandwidth",
+            "Encrypted Connection",
+            "No Traffic Logs",
+            "Works on All Devices"
+        ],
+        "image": "/standartplan.png"
+    },
+    {
+        "name": "Premium Plan",
+        "preco": "Free",
+        "ferramentas": [
+            "Unlimited Bandwidth",
+            "Encrypted Connection",
+            "No Traffic Logs",
+            "Works on All Devices"
+        ],
+        "image": "/premiumplan.png"
+    }
+]
